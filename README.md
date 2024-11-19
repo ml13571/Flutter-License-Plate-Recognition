@@ -7,13 +7,7 @@ This repo demonstrates `ANPR/ALPR(Automatic Number/License Plate Recognition)` e
 
 `LPR` solutions utilizes AI and ML to greatly surpass legacy solutions. Now, users can receive a vehicle's plate number in real-time.
 
-The `ALPR` system consists of the following steps:
-- Vehicle image capture
-- Preprocessing
-- Vehicle detection
-- Number plate extraction
-- Charater segmentation
-- Optical Character Recognition(OCR) </br>
+The `ALPR` or `LPR` implementation consists of the following steps: `vehicle image capture`, `preprocessing`, `vehicle detection`, `number plate extraction`, `charater segmentation` and `Optical Character Recognition(OCR)`. </br>
 
 The `ALPR` system works in these strides, the initial step is the location of the vehicle and capturing a vehicle image of front or back perspective of the vehicle, the second step is the localization of Number Plate and then extraction of vehicle Number Plate is an image. The final stride uses image segmentation strategy, for the segmentation a few techniques neural network, mathematical morphology, color analysis and histogram analysis. Segmentation is for individual character recognition. Optical Character Recognition (OCR) is one of the strategies to perceive the every character with the assistance of database stored for separate alphanumeric character.
 
