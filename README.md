@@ -2,10 +2,10 @@
 
 ## Overview
 
-I have implemented `ANPR/ALPR(Automatic Number/License Plate Recognition)` engine with unmatched accuracy and precision by applying SOTA(State-of-the-art) deep learning techniques in this repository. </br>
-We have built `ANPR/ALPR` project with Flutter framework.
+This repo demonstrates `ANPR/ALPR(Automatic Number/License Plate Recognition)` engine with high accuracy based on SOTA(State-Of-The-Art) deep learning techniques. </br>
+`ANPR/ALPR` was implemented on Flutter framework for both `Android` and `iOS`.
 
-KBY-AI's `LPR` solutions utilizes artificial intelligence and machine learning to greatly surpass legacy solutions. Now, in real-time, users can receive a vehicle's plate number.
+`LPR` solutions utilizes AI and ML to greatly surpass legacy solutions. Now, users can receive a vehicle's plate number in real-time.
 
 The `ALPR` system consists of the following steps:
 - Vehicle image capture
