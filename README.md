@@ -28,10 +28,10 @@ The `ALPR` system works in these strides, the initial step is the location of th
 - The code line below shows how to update SDK with the `license key`: https://github.com/jackiewangCV/Flutter-License-Plate-Recognition/blob/401c3bdfde56a716d5a33e3878eaca9a4c4c3081/lib/main.dart#L69-L78
 - To request `license key`, please contact me:</br>
   `Email:` jackiewang13571@gmail.com</br>
-  `Telegram:` [Telegram](https://t.me/AIdevstar)</br>
-  `WhatsApp:` [WhatsApp](https://wa.me/+15095539271)</br>
-  `Skype:` [Skype](https://join.skype.com/invite/epLIkMFiFRvQ)</br>
-  `Portfolio:` https://jackiewang13571.wixsite.com/jackie-wang</br>
+  `Telegram:` [Click](https://t.me/AIdevstar)</br>
+  `WhatsApp:` [Click](https://wa.me/+15095539271)</br>
+  `Skype:` [Click](https://join.skype.com/invite/epLIkMFiFRvQ)</br>
+  `Portfolio:` [Click](https://jackiewang13571.wixsite.com/jackie-wang)</br>
 
 ## How To Run
 ### 1. Flutter Setup
